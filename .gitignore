@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.coverage
+mlruns/
+mlartifacts/
+mlflow.db
+.DS_Store
+captures_cr/
